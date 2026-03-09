@@ -13,7 +13,7 @@ public class Main {
 	 5% tax line of the bill and then returns the total tax needed for 
 	 this bill
 	 */
-	public static double calculateTax(double price) {
+	calculateTax() {
 
 	}
 	
@@ -25,7 +25,7 @@ public class Main {
 	15% tip line of the bill and then returns the total tip needed for 
 	this bill
 	*/
-	public static double calculateTip(double price) {
+	calculateTip(){
 
 	}
 	
@@ -50,7 +50,7 @@ public class Main {
 	the meal by combining the cost of meal1 and meal2 into one bill.
 	See the Sample Output for how this should look.
 	*/
-	public static void myTreat(double meal1, double meal2) {
+	myTreat() {
 
 	}
 	
@@ -62,7 +62,7 @@ public class Main {
 	by combining the cost of meal1 and meal2, and then splitting the cost
 	evenly.  See the Sample Output for how this should look.
 	*/	
-	public static void evenSplit(double meal1, double meal2) {
+	evenSplit() {
 
 	}
 	
@@ -74,7 +74,7 @@ public class Main {
 	the meal by keeping the cost of meal1 and meal2 separate.  See 
 	the Sample Output for how this should look.
 	*/
-	public static void piratesCode(double meal1, double meal2) {
+	piratesCode() {
 		
 
 	}
